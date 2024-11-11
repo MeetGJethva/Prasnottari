@@ -1,0 +1,67 @@
+/* Custom styles for the navbar */
+/* 
+344e41
+3a5a40
+588157
+a3b18a
+dad7cd
+*/
+
+.navbar {
+  background-color: #ffffff; /* Dark background color */
+  position: static;
+}
+
+.navbar-brand {
+  color: #344e41 !important; /* White text color */
+  font-size: 2rem !important; /* Larger font size */
+  font-weight: bold; /* Bold text */
+}
+
+.navbar-toggler {
+  border-color: #344e41; /* White border color */
+}
+
+
+
+.navbar-nav {
+  margin-left: auto; /* Push nav items to the right */
+}
+
+.nav-link {
+  color: #344e41 !important; /* White text color for links */
+  font-size: 1.3rem !important;
+  
+}
+
+.nav-link:hover {
+  color: #588157 !important; /* Yellow hover color (adjust as needed) */
+  
+}
+
+.dropdown-menu {
+  background-color: #343a40; /* Dark background for dropdown */
+}
+
+.dropdown-item {
+  color: #ffffff !important; /* White text color for dropdown items */
+}
+
+.dropdown-item:hover {
+  background-color: #588157; /* Yellow hover background (adjust as needed) */
+}
+
+.form-control {
+  border-color: #588157; /* White border for search input */
+  color: #588157; /* White text color for search input */
+}
+
+.btn-outline-success {
+  border-color: #588157; /* White border for search button */
+  color: #588157; /* White text color for search button */
+}
+
+.btn-outline-success:hover {
+  background-color: #3a5a40; /* Green hover color (adjust as needed) */
+  border-color: #3a5a40; /* Green hover color for border */
+}
