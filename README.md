@@ -16,9 +16,9 @@ An interactive web platform designed to enhance students' study efficiency and e
 
 The Exam Preparation Platform is designed to provide a centralized location for students to access and contribute to a vast collection of study materials. Whether you're preparing for a university exam or a competitive test, this platform allows you to:
 
-- Search for exam papers, questions, and topics.
+- Search for exam papers, questions.
 - Sort and filter results based on predefined criteria.
-- Upload and share your own questions and question papers (with admin verification).
+- Upload and share your own questions and question papers.
 - Create customized question papers using the built-in paper generation tool.
 
 The platform aims to improve the study process by making relevant exam materials easily accessible, while also empowering students to contribute back to the community.
@@ -32,10 +32,10 @@ The platform aims to improve the study process by making relevant exam materials
 - **Search Functionality**: Easily search for questions, topics, subjects, or years using specific keywords.
   - *Search Keywords*: Enter a keyword to find matching exam materials.
   
-- **Sort & Filter**: Sort the search results in ascending/descending order or filter based on various criteria such as subject, topic, or year.
+- **Sort & Filter**: Sort the search results or filter based on various criteria such as subject or year.
   
-- **Question and Paper Upload**: Users can upload their own questions or question papers (subject to admin verification).
-  - *Upload Questions*: Add questions with topic, subject, marks, and answer.
+- **Question and Paper Upload**: Users can upload their own questions or question papers.
+  - *Upload Questions*: Add questions with subject, marks, and answer.
   - *Upload Question Papers*: Upload PDFs of question papers with details like subject, year, etc.
 
 - **Paper Generation Tool**: Students can create customized question papers based on selected topics or subjects, improving their targeted study sessions.
@@ -87,14 +87,14 @@ Before you begin, ensure you have the following installed:
    - Start the backend server:
 
      ```bash
-     cd server
+     cd Backend
      npm start
      ```
 
    - Start the frontend development server:
 
      ```bash
-     cd client
+     cd prasnottari
      npm start
      ```
 
@@ -103,7 +103,7 @@ Before you begin, ensure you have the following installed:
 ## **Usage Instructions**
 
 - **Registration/Login**: First, create an account or log in to access personalized features.
-- **Search**: Use the search bar to look for exam questions, papers, or topics.
+- **Search**: This feature is under development.
 - **Sort/Filter**: Refine your search results using sorting and filtering options.
 - **Upload**: If you want to contribute, you can upload your own questions and question papers for review.
 - **Paper Generation**: Use the paper generation tool to create custom papers based on specific topics or subjects.
