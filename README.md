@@ -10,7 +10,6 @@ An interactive web platform designed to enhance students' study efficiency and e
 - [Installation Guide](#installation-guide)
 - [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## **Project Overview**
 
