@@ -65,4 +65,55 @@ Before you begin, ensure you have the following installed:
 2. **Navigate to the project directory**:
 
    ```bash
-   cd exam-preparation-platform
+   cd project
+
+3. **Install dependencies for both frontend and backend**:
+
+   - **Frontend**:
+
+     ```bash
+     cd prasnottari
+     npm install
+     ```
+
+   - **Backend**:
+
+     ```bash
+     cd Backend
+     npm install
+     ```
+4. **Run the application**:
+
+   - Start the backend server:
+
+     ```bash
+     cd server
+     npm start
+     ```
+
+   - Start the frontend development server:
+
+     ```bash
+     cd client
+     npm start
+     ```
+
+   The application should now be running on `http://localhost:3000`.
+
+## **Usage Instructions**
+
+- **Registration/Login**: First, create an account or log in to access personalized features.
+- **Search**: Use the search bar to look for exam questions, papers, or topics.
+- **Sort/Filter**: Refine your search results using sorting and filtering options.
+- **Upload**: If you want to contribute, you can upload your own questions and question papers for review.
+- **Paper Generation**: Use the paper generation tool to create custom papers based on specific topics or subjects.
+
+## **Contributing**
+
+We welcome contributions to make this project even better! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push to your branch (`git push origin feature-name`).
+5. Open a pull request with a description of your changes.
