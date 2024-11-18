@@ -45,9 +45,6 @@ The platform aims to improve the study process by making relevant exam materials
 - **Frontend**: React.js, React Router, Material UI (for UI components), Axios (for HTTP requests)
 - **Backend**: Node.js, Express.js (API development)
 - **Database**: MongoDB (for storing user data, questions, papers, and other metadata)
-- **Authentication**: JWT (JSON Web Token) for secure user authentication
-- **File Storage**: Cloud storage for uploading and storing question papers (e.g., AWS S3)
-- **Other Tools**: Redux (for state management), Formik (for handling forms)
 
 ## **Installation Guide**
 
@@ -64,4 +61,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/exam-preparation-platform.git
+   git clone https://github.com/MeetGJethva/Prasnottari.git
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd exam-preparation-platform
